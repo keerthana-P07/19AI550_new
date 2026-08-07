@@ -1,5 +1,5 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
-### DATE:                                                                            
+### DATE: 24.07.2026                                                                          
 ### REGISTER NUMBER : 212225230138
 ### AIM: 
 To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent. 
